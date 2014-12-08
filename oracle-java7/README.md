@@ -1,3 +1,3 @@
 docker-java
 ===========
-java-oracle 6 & 7
+java-oracle 7

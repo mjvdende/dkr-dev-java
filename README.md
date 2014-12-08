@@ -1,4 +1,3 @@
 docker-java
 ===========
-java-oracle
-openjdk
+java-oracle 6 & 7

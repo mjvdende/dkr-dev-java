@@ -1,5 +1,5 @@
 # Pull base image.
-FROM dockerfile/java:oracle-java7
+FROM dockerfile/java:openjdk-8-jdk
 MAINTAINER Maarten van den Ende <@mjvdende>
 
 # Setup Software dependencies 
